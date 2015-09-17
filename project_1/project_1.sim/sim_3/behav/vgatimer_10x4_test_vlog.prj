@@ -1,0 +1,7 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  "../../../project_1.srcs/sources_1/imports/sources_1/imports/new/xycounter.sv" --include "../../../project_1.srcs/sources_1/imports/sources_1/new"
+sv xil_defaultlib  "../../../project_1.srcs/sources_1/imports/new/vgatimer.sv" --include "../../../project_1.srcs/sources_1/imports/sources_1/new"
+sv xil_defaultlib  "../../../project_1.srcs/sim_3/imports/Lab 7 files/vgatimer_10x4_test.sv" --include "../../../project_1.srcs/sources_1/imports/sources_1/new"
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"

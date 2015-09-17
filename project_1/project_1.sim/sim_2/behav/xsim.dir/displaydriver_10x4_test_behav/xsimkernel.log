@@ -1,0 +1,7 @@
+Running: xsim.dir/displaydriver_10x4_test_behav/xsimk.exe -simmode gui -wdb displaydriver_10x4_test_behav.wdb -simrunnum 0 -socket 49925
+Design successfully loaded
+Design Loading Memory Usage: 19156 KB (Peak: 19156 KB)
+Design Loading CPU Usage: 170 ms
+Simulation completed
+Simulation Memory Usage: 19644 KB (Peak: 19644 KB)
+Simulation CPU Usage: 186 ms

@@ -1,0 +1,10 @@
+#-----------------------------------------------------------
+# Webtalk v2014.4 (64-bit)
+# SW Build 1071353 on Tue Nov 18 18:24:04 MST 2014
+# IP Build 1070531 on Tue Nov 18 01:10:18 MST 2014
+# Start of session at: Sat Apr 11 19:57:45 2015
+# Process ID: 4820
+# Log file: C:/Brett/School/Spring15/541/labs/project_1/project_1.sim/sim_2/behav/webtalk.log
+# Journal file: C:/Brett/School/Spring15/541/labs/project_1/project_1.sim/sim_2/behav\webtalk.jou
+#-----------------------------------------------------------
+source C:/Brett/School/Spring15/541/labs/project_1/project_1.sim/sim_2/behav/xsim.dir/displaydriver_10x4_test_behav/webtalk/xsim_webtalk.tcl -notrace

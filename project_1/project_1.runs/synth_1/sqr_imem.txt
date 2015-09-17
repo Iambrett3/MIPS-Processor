@@ -1,0 +1,21 @@
+201d003c    // adjusted top-of-stack down by 0x2000
+8c040004    // lw: imm adjusted down by 0x2000
+0c000005
+ac020000    // sw: imm adjusted down by 0x2000
+08000004
+23bdfff8
+afbf0004
+afa40000
+28880002
+11000002
+00041020
+08000012
+2084ffff
+0c000005
+8fa40000
+00441020
+00441020
+2042ffff
+8fbf0004
+23bd0008
+03e00008
